@@ -1,0 +1,10 @@
+{
+  "name": "type-world",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {},
+  "dependencies": {
+    "@type-challenges/utils": "^0.1.1"
+  }
+}
